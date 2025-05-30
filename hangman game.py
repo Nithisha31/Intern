@@ -12,8 +12,8 @@ print("Start guessing...")
 time.sleep(0.5)
 
 # Set the secret word and print a hint
-secret_word = "engineering"
-print("\nHint: This is a large, gray animal.")
+secret_word = "peacock"
+print("\nHint: This is a brid loves to dance in rain.")
 
 guesses = ""  # creates an variable with an empty value
 correct_guesses = ""  # store correctly guessed letters
