@@ -12,7 +12,7 @@ print("Start guessing...")
 time.sleep(0.5)
 
 # Set the secret word and print a hint
-secret_word = "elephant"
+secret_word = "engineering"
 print("\nHint: This is a large, gray animal.")
 
 guesses = ""  # creates an variable with an empty value
